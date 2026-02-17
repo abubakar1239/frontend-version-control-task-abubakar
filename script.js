@@ -7,6 +7,7 @@ const input =document.querySelector(".input")
 form.addEventListener('submit', function (event) {
    // Prevent actual form submission
   popup.style.display = 'flex'; // Show pop-up
+
     
 });
 
